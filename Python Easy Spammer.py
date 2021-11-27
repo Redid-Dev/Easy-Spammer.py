@@ -1,7 +1,7 @@
 import pyautogui as auto
 
 print ("=======================")
-print ("| Redid Easy Spammer |")
+print ("| ForseeGab Easy Spammer |")
 print ("=======================")
 
 time:auto.sleep(1)
